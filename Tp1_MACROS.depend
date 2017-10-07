@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1506773722 source:c:\users\assia\desktop\tp1_macros\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fonction.h"
+
+1506773722 c:\users\assia\desktop\tp1_macros\fonction.h
+	"prototype.h"
+	"string.h"
+	<ctype.h>
+
+1506770738 c:\users\assia\desktop\tp1_macros\prototype.h
+	"struct.h"
+
+1506773722 c:\users\assia\desktop\tp1_macros\struct.h
+
+1506780067 source:c:\users\othmane\downloads\tp1_macros\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fonction.h"
+
+1506779920 c:\users\othmane\downloads\tp1_macros\fonction.h
+	"prototype.h"
+	"string.h"
+	<ctype.h>
+
+1506770738 c:\users\othmane\downloads\tp1_macros\prototype.h
+	"struct.h"
+
+1506779997 c:\users\othmane\downloads\tp1_macros\struct.h
+
+1507037229 source:c:\users\assia\desktop\tp1_macro\tp1_macros\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fonction.h"
+
+1507158829 c:\users\assia\desktop\tp1_macro\tp1_macros\fonction.h
+	"prototype.h"
+	"string.h"
+	<ctype.h>
+
+1507024468 c:\users\assia\desktop\tp1_macro\tp1_macros\prototype.h
+	"struct.h"
+
+1507152434 c:\users\assia\desktop\tp1_macro\tp1_macros\struct.h
+
+1507156957 source:c:\users\othmane\desktop\tp1_macro\tp1_macros\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fonction.h"
+
+1507158928 c:\users\othmane\desktop\tp1_macro\tp1_macros\fonction.h
+	"prototype.h"
+	"string.h"
+	<ctype.h>
+
+1507024468 c:\users\othmane\desktop\tp1_macro\tp1_macros\prototype.h
+	"struct.h"
+
+1507152434 c:\users\othmane\desktop\tp1_macro\tp1_macros\struct.h
+
