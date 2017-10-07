@@ -11,7 +11,7 @@ void clear_buffer()
     for(ind=0; ind<=taille; buffer[ind++]='\0');
     taille = -1;
     //printf("\n fin");
-}
+}/*kjddjsklfdsjdfs*/
 
 void buffer_char(char c)
 {
